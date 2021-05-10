@@ -12,6 +12,8 @@ Her fidan büyüdüğünde arkada bir ağaç olarak yerini alıyor ve orman yeş
 Ancak bunu yaparken <b>asit</b> damlalarından kaçmamız gerekiyor. Tohumumuz her bir asit aldığında bir önceki evresine dönüyor.
 Eğer bitkimiz daha tohum evresindeyken asit ile karşılaşırsa oyunu kaybediyoruz.
 
+<img src="images/bitki1.png" width="100" height="100"> <img src="images/bitki2.png" width="100" height="100"> <img src="images/bitki3.png" width="100" height="100"> <img src="images/bitki4.png" width="100" height="100"> <img src="images/bitki5.png" width="100" height="100"> <img src="images/agac.png" width="100" height="100">
+
 ## Nasıl Oynanır?
 Klavyedeki `⬅️` ve `➡️` tuşlarını kullanarak saksıyı hareket ettir ve asitlerden kaçarken damlaları yakalamaya çalış.
 `Mouse Left Click` ile kaybettiğin zaman oyuna tekrar başlayabilirsin.
