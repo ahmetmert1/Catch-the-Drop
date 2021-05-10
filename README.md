@@ -15,8 +15,8 @@ Ancak bunu yaparken <b>asit</b> damlalarından kaçmamız gerekiyor. Eğer fidan
 Klavyedeki `⬅️` ve `➡️` tuşlarını kullanarak saksıyı hareket ettir ve asitlerden kaçarken damlaları yakalamaya çalış.
 `Mouse Left Click` ile kaybettiğin zaman oyuna tekrar başlayabilirsin.
 
-# Oyundan görüntüler
-<img src="images/game1.png" >
+# Oyun içi Görüntüler
+<img src="oyunicigoruntuler/ilkhali2.jpeg" >
 
 # Kullanılan Teknolojiler
 - HTML
