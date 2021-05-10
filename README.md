@@ -18,7 +18,7 @@ Klavyedeki `⬅️` ve `➡️` tuşlarını kullanarak saksıyı hareket ettir 
 # Oyun içi Görüntüler
 Ağaç eklenmemiş oyunun ilk hali                                           Ağaç eklenmiş hali
 
-<img src="oyunicigoruntuler/ilkhali2.jpeg"  width="400" height="200">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="400" height="200">
+<img src="oyunicigoruntuler/ilkhali2.jpeg"  width="600" height="300">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="4-600" height="300">
 
 
 # Kullanılan Teknolojiler
