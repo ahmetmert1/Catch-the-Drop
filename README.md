@@ -16,7 +16,10 @@ Klavyedeki `⬅️` ve `➡️` tuşlarını kullanarak saksıyı hareket ettir 
 `Mouse Left Click` ile kaybettiğin zaman oyuna tekrar başlayabilirsin.
 
 # Oyun içi Görüntüler
-<img src="oyunicigoruntuler/ilkhali2.jpeg" >
+Ağaç eklenmemiş oyunun ilk hali                                           Ağaç eklenmiş hali
+
+<img src="oyunicigoruntuler/ilkhali2.jpeg"  width="400" height="200">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="400" height="200">
+
 
 # Kullanılan Teknolojiler
 - HTML
