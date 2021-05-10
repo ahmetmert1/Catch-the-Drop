@@ -21,11 +21,11 @@ Klavyedeki `⬅️` ve `➡️` tuşlarını kullanarak saksıyı hareket ettir 
 # Oyun içi Görüntüler
 Ağaç eklenmemiş oyunun ilk hali &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     Ağaç eklenmiş hali
 
-<img src="oyunicigoruntuler/ilkhali2.jpeg"  width="480" height="300">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="480" height="300">
+<img src="oyunicigoruntuler/ilkhali2.jpeg"  width="460" height="300">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="460" height="300">
 
 Kayıp Ekranı
 
-<img src="oyunicigoruntuler/kaybettiniz2.jpeg" width="480" height="300">
+<img src="oyunicigoruntuler/kaybettiniz2.jpeg" width="460" height="300">
 
  
 # 💻 Teknolojiler 
