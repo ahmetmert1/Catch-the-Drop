@@ -1,6 +1,7 @@
 # Catch the Drop
-Catch the Drop 2 Boyutlu bir nesne yakalama oyunudur.
 
+Catch the Drop 2 Boyutlu bir nesne yakalama oyunudur.
+<img src="CATCH THE DROP.png">
 Oyununa buradan ulaşabilirsiniz. [Oyun Linki](https://mustafaerenn.github.io/ZomKill-Js-Game/)
 # Genel Özet
 ## Proje Amacı
