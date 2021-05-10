@@ -9,42 +9,43 @@ Oyununa buradan ulaşabilirsiniz. 👉 [Oyun Linki](https://mustafaerenn.github.
 ## Oyunun Amacı
 Ağaçsız bir çevreyi elimizdeki saksının içindeki tohumu <b>su</b> damlalarıyla yeşertip, onu fidan olarak doğaya kazandırmaya çalışıyoruz.
 Her fidan büyüdüğünde arkada bir ağaç olarak yerini alıyor ve orman yeşillenmeye başlıyor.
-Ancak bunu yaparken <b>asit</b> damlalarından kaçmamız gerekiyor. Eğer fidanımız daha tohum evresindeyken asit ile karşılaşırsa oyunu kaybediyoruz.
+Ancak bunu yaparken <b>asit</b> damlalarından kaçmamız gerekiyor. Tohumumuz her bir asit aldığında bir önceki evresine dönüyor.
+Eğer bitkimiz daha tohum evresindeyken asit ile karşılaşırsa oyunu kaybediyoruz.
 
 ## Nasıl Oynanır?
 Klavyedeki `⬅️` ve `➡️` tuşlarını kullanarak saksıyı hareket ettir ve asitlerden kaçarken damlaları yakalamaya çalış.
 `Mouse Left Click` ile kaybettiğin zaman oyuna tekrar başlayabilirsin.
 
 # Oyun içi Görüntüler
-Ağaç eklenmemiş oyunun ilk hali                                           Ağaç eklenmiş hali
+Ağaç eklenmemiş oyunun ilk hali &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     Ağaç eklenmiş hali
 
-<img src="oyunicigoruntuler/ilkhali2.jpeg"  width="600" height="300">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="600" height="300">
+<img src="oyunicigoruntuler/ilkhali2.jpeg"  width="480" height="300">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="480" height="300">
 
+Kayıp Ekranı
 
-# Kullanılan Teknolojiler
-- HTML
-- JavaScript
+<img src="oyunicigoruntuler/kaybettiniz2.jpeg" width="480" height="300">
+
+ 
+# 💻 Teknolojiler 
+- HTML 
+- JavaScript 
 - CSS
 
-# Kurulum ve Oynanış
-## Github üzerinden indirmek
-<img src="images/kurulum1.png">
-Resimdeki adımları takip ederek kodu zip olarak indirdikten sonra zipi açarak dosya içindeki index.html'e çift tıklayarak açarsanız oyunu oynabilirsiniz.
 
-## Oyun linki
-Kodu indirmek istemezseniz linkten oynayabilirsiniz -> https://mustafaerenn.github.io/ZomKill-Js-Game/
+# 🎨 Tasarım 
+Oyunda yer alan resimlerin kimini birkaç resimin oluşmasından kendim tasarladım kimini direkt olarak png olarak koydum.
+
+Tasarımlarım: Arka plan resmi, bitki evreleri ve asit damlası.
+
+Tasarım platformu olarak [canva.com](https://www.canva.com/) 'u tercih ettim.
+
+# 🔊 Ses Efektleri ve Müzik 
+Oyundaki yer alan sesler [mixkit.co](https://mixkit.co/) sitesinden ve youtubeden alınmıştır.
 
 
-# Tasarım
-Oyun içindeki yer alan objelerin (images klasörü altındaki resimler) tamamını https://www.piskelapp.com/ adresinden online olarak çizdikten sonra oyuna entegre ettim
+# 📞 Lisans ve İletişim
+Oyun hikayesi tasarımı, nesne tasarımları ve kodlar  [@ahmetmert1](https://github.com/ahmetmert1) tarafından yapılmıştır. 
 
-# Ses Efektleri ve Müzik
-Ses efektlerini sfxr isimli uygulamadan seçtikten sonra indirip oyuna ekledim.
-(sfxr uygulamasının websitesi ve indirme linki -> https://www.drpetter.se/project_sfxr.html)
+[Linkedin](www.linkedin.com/in/ahmet-mert-öz)
 
-Oyun başladıktan sonra çalan arkadaki müziği youtube üzerinden buldum ve oyuna entegre ettim.(Müziğin youtube linki -> https://www.youtube.com/watch?v=6HvFLkuFOvc)
-
-# Lisans ve İletişim
-Karakter tasarımları ve kodlar  [@MustafaErenn](https://github.com/MustafaErenn) tarafından yapılmıştır. 
-[Linkedin](https://www.linkedin.com/in/mustafa-eren-9214661b3/)
-
+[E-posta](ahmetmertoz11@gmail.co
