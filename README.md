@@ -50,4 +50,4 @@ Oyun hikayesi tasarımı, nesne tasarımları ve kodlar  [@ahmetmert1](https://g
 
 [Linkedin](www.linkedin.com/in/ahmet-mert-öz)
 
-[E-posta](ahmetmertoz11@gmail.co
+[E-posta](ahmetmertoz11@gmail.com)
