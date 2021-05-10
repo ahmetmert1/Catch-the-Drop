@@ -4,7 +4,7 @@
 
 <img src="CATCH THE DROP.png">
 
-Oyununa buradan ulaşabilirsiniz. 👉 [Oyun Linki](https://mustafaerenn.github.io/ZomKill-Js-Game/)
+Oyununa buradan ulaşabilirsiniz. 👉 [Oyun Linki](https://mustafaerenn.github.io/ZomKill-Js-Game/) 👈
 
 ## Oyunun Amacı
 Ağaçsız bir çevreyi elimizdeki saksının içindeki tohumu <b>su</b> damlalarıyla yeşertip, onu fidan olarak doğaya kazandırmaya çalışıyoruz.
