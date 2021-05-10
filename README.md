@@ -4,11 +4,11 @@
 <img src="CATCH THE DROP.png">
 
 Oyununa buradan ulaşabilirsiniz. 👉 [Oyun Linki](https://mustafaerenn.github.io/ZomKill-Js-Game/)
-# Genel Özet
-## Proje Amacı
-Bu proje  BTU-Web Tabanlı Programlama dersi için yaptığım sadece javascript ve html kullanarak geliştirdiğim oyundur.
-## Oyunun Hikayesi
-Bütün dünya zombilerin istilasında katledildi. Sen insanlığın son kalesindeki koruyucu bir askersin. Zombiler bariyerlere ulaşmadan önce onları yok et.
+
+## Oyunun Amacı
+Ağaçsız bir çevreyi elimizdeki saksının içindeki tohumu <b>su</b> damlalarıyla yeşertip, onu fidan olarak doğaya kazandırmaya çalışıyoruz.
+Her fidan büyüdüğünde arkada bir ağaç olarak yerini alıyor ve orman yeşillenmeye başlıyor.
+Ancak bunu yaparken <b>asit</b> damlalarından kaçmamız gerekiyor. Eğer fidanımız daha tohum evresindeyken asit ile karşılaşırsa oyunu kaybediyoruz.
 
 ## Nasıl Oynanır?
 `W` ve `S` tuşlarını askerini koridorlar arasında geçiş yapmak için kullan.
