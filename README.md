@@ -12,8 +12,8 @@ Her fidan büyüdüğünde arkada bir ağaç olarak yerini alıyor ve orman yeş
 Ancak bunu yaparken <b>asit</b> damlalarından kaçmamız gerekiyor. Eğer fidanımız daha tohum evresindeyken asit ile karşılaşırsa oyunu kaybediyoruz.
 
 ## Nasıl Oynanır?
-`39` ve `37` tuşlarını askerini koridorlar arasında geçiş yapmak için kullan.
-`Mouse Left Click` kullanarak zombilere ateş edebilirsin.
+`⬅️` ve `➡️` tuşlarını kullanarak saksıyı hareket ettir ve asitlerden kaçarken damlaları yakalamaya çalış.
+`Mouse Left Click` ile kaybettiğin zaman oyuna tekrar başlayabilirsin.
 
 # Oyundan görüntüler
 <img src="images/game1.png" >
