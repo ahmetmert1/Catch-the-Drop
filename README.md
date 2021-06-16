@@ -1,6 +1,6 @@
-#  🌱 Catch the Drop 💧
+# 🤔 Kullanıcı Deneyimleri 💭
 
-<b>Catch the Drop 2 Boyutlu bir nesne yakalama oyunudur.</b>
+<b>Kullanıcı Deneyimleri, insanların siteye girip kendi hesapları ile belirli bir ürün hakkındaki deneyimlerini paylaşabildikleri bir web sitesidir.</b>
 
 <img src="CATCH THE DROP.png">
 
