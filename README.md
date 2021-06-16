@@ -3,6 +3,8 @@
 
 <b>Catch the Drop 2 Boyutlu bir nesne yakalama oyunudur.</b>
 
+<img src="CATCH THE DROP.png">
+
 Oyununa buradan ulaşabilirsiniz. 👉 [Oyun Linki](https://ahmetmert1.github.io/Catch-the-Drop/) 👈
 
 ## Oyunun Amacı
